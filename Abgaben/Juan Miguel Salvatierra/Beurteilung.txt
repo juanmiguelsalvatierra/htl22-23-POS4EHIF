@@ -1,0 +1,28 @@
+﻿20 / 24 Gut
+
+8 Pkt.) --> 8
+(3) Klassengerüst mit Vererbung (Lampe...): 
+(1) Bezeichnung und Status private: 
+(1) Klasse Lampe abstract: 
+(1,5) Sinnvolles Interface 
+(1,5) Array vom Typ des Interface: 
+
+
+
+8 Pkt.)  --> 8
+(1) Timer mit sinnvollem Intervall (1 Sekunde!):1
+--> soweit ok, für die letzte Aufgabe müßte er auf 1 Sekunde gestellt werden
+(3) Timertask vorhanden und löst Event aus:3
+(4) Eventhandler in Interessenten korrekt implementiert:4
+
+
+2 Pkt.) Methode AddListener --> Objekte in Array ablegen
+--> Aufruf AddListener muß von außerhalb kommen!
+--> 1
+
+
+3 Pkt.) Notstop Rnd 60-180: 0
+
+
+3 Pkt.) Test mit allen Befehlen (alle 4 Sekunden):3
+

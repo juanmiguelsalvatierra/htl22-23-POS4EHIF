@@ -1,0 +1,45 @@
+2.5/24 Nicht genügend
+
+
+Aufgabe 3.1 (8 Pkt) --> 2.5 
+
+3Pkt) 3 Produkte erben von Oberklasse
+--> Hinweis: du verwendest public variablen --> wofür also getter!?!?
+--> Hinweis: deine setter-Methoden sind sehr fragwürdig, da werden parameter übergeben die nie genutzt werden!?
+--> du hast keine Konstruktoren!?
+--> 1.5
+
+2Pkt) Random Preis, Gewicht
+--> vorhanden, aber komplett falsch
+--> 0 
+
+1Pkt) Spezifikum
+--> 1
+
+2Pkt) 3 Regale mit je 1000 Produkten befüllen
+--> 0
+
+--------------
+
+
+Aufgabe 3.2 (16 Pkt.) --> 0 
+ 
+Hinweis: Dieser Teil der Aufgabe besteht aus unzusammenhängenden,
+schwer nachvollziehbaren Gedankengängen, welche auch nicht kommentiert wurden.
+--> 0 Pkt. 
+
+4Pkt) Neues Regal = einfach verkettete Liste (kein ARRAY)
+--> 0
+
+
+4Pkt) RandomArtikel aus altem Regal entfernen und in neuem Regal einfügen 
+--> 0
+
+4Pkt) bei 21 Tonnen weiteres neue Regal + Ausgabe Gesamtpreis/anz. Artikel
+--> 0
+
+2Pkt) maximal 7 neue Regale befüllen
+--> 0
+
+2Pkt) Preisänderung aller Elektrowaren in den neuen Regalen -10%
+--> 0

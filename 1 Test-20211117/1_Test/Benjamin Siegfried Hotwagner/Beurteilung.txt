@@ -1,0 +1,47 @@
+12.5/24 --> Genügend
+
+Aufgabe 3.1 (8 Pkt) --> 7.5 Pkt.
+
+
+3Pkt) 3 Produkte erben von Oberklasse
+--> Produkt[15] String Spezifikum?
+--> 3 Pkt.
+
+
+2Pkt) Random Preis, Gewicht
+--> 2 Pkt.
+
+
+1Pkt) Spezifikum
+--> 1 Pkt.
+
+
+2Pkt) 3 Regale mit je 1000 Produkten befüllen
+--> Warenlager[13] i & j vertauscht (die ArrayDeklaration ist auch verwirrend)
+--> sonst ok
+--> 1.5 Pkt.
+
+--------------
+Aufgabe 3.2 (16 Pkt.) --> 5 Pkt.
+
+
+4Pkt) Neues Regal = einfach verkettete Liste (kein ARRAY)
+--> 4 Pkt.
+
+
+4Pkt) RandomArtikel aus altem Regal entfernen und in neuem Regal einfügen 
+--> kein Random
+--> 0 Pkt.
+
+
+4Pkt) bei 21 Tonnen weiteres neue Regal + Ausgabe Gesamtpreis/anz. Artikel
+--> korrekt logik nicht erkennbar
+--> Ausgabe ok
+--> 1 Pkt.
+
+
+2Pkt) maximal 7 neue Regale befüllen
+--> 0 Pkt.
+
+2Pkt) Preisänderung aller Elektrowaren in den neuen Regalen -10%
+--> 0 Pkt.

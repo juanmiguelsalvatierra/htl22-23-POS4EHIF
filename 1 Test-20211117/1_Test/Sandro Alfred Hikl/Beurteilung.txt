@@ -1,0 +1,46 @@
+9/24 Nicht genügend
+
+Aufgabe 3.1 (8 Pkt) --> 4,5 
+
+3Pkt) 3 Produkte erben von Oberklasse
+--> keine sinnvollen Konstruktoren
+--> 1
+
+2Pkt) Random Preis, Gewicht
+--> komplett verworren und nicht korrekt
+--> 0.5
+
+1Pkt) Spezifikum
+--> 1
+
+2Pkt) 3 Regale mit je 1000 Produkten befüllen
+--> Hinweis: probleme mit 2dim Arrays, gewählte Datenstruktur bedenklich
+--> 2 
+
+--------------
+Aufgabe 3.2 (16 Pkt.) --> 4.5
+
+4Pkt) Neues Regal = einfach verkettete Liste (kein ARRAY)
+--> 0
+
+4Pkt) RandomArtikel aus altem Regal entfernen und in neuem Regal einfügen 
+--> es wird immer nur ein artikel aus dem gleiche regal genommen
+--> es wird nicht überprüft ob dieser artikel null ist
+--> der artikel wird nicht aus dem alten regal gelöscht
+--> 1
+
+4Pkt) bei 21 Tonnen weiteres neue Regal + Ausgabe Gesamtpreis/anz. Artikel
+--> Main[26]: traglast wird nie verändert
+--> Ausgabe ok
+--> 3
+
+2Pkt) maximal 7 neue Regale befüllen
+--> neues Regal-Array wird nicht initialisiert
+--> Main[25] r.length hat keinen Wert
+--> Main[29] Abfrage ob altes regal leer ist - falsch
+--> 0
+
+2Pkt) Preisänderung aller Elektrowaren in den neuen Regalen -10%
+--> es wird nicht der preis im neuen Regal geändert
+--> Verwendung von instanceof 
+--> 0,5

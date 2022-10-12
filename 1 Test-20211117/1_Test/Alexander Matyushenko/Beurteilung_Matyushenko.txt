@@ -1,0 +1,64 @@
+14,75/24 --> Genügend
+
+
+Aufgabe 3.1 (8 Pkt) --> 7,75 Pkt.
+
+
+3Pkt) 3 Produkte erben von Oberklasse
+--> Produkt:Produktart unnötig
+--> Produkt:Id unnötig
+--> float wäre ausreichend gewesen
+--> sonst ok 
+--> 3 Pkt.
+
+2Pkt) Random Preis, Gewicht
+--> 2 Pkt.
+
+
+1Pkt) Spezifikum
+--> 1 Pkt.
+
+2Pkt) 3 Regale mit je 1000 Produkten befüllen
+--> Main[18] --> nextInt liefert werte ab 0
+--> Hinweis: Wieso verwendest du nicht ein Array!?!
+--> 1,75 Pkt.
+
+
+--------------
+Aufgabe 3.2 (16 Pkt.) --> 7 Pkt
+
+
+4Pkt) Neues Regal = einfach verkettete Liste (kein ARRAY)
+--> Regal[21] Logikfehler! a.next=root! 
+--> Programm nicht getestet :-(
+--> Regal[80] Methode "voll" ? 
+--> 2 Pkt.
+
+
+4Pkt) RandomArtikel aus altem Regal entfernen und in neuem Regal einfügen 
+--> Main[48]: nextInt liefert Werte ab 0
+--> du legst auch "null" in ein neues Regal, das funktioniert nicht
+--> Regal[30-32] --> logik unklar. du löscht einfach so das letzte Produkt?
+--> Problem um erstes/letztes Element aus Liste zu holen
+--> Logik sonst erkennbar
+--> 1 Pkt.
+ 
+
+
+4Pkt) bei 21 Tonnen weiteres neue Regal + Ausgabe Gesamtpreis/anz. Artikel
+--> Abfrage vorhanden, aber Regalgewicht vom neuen Regal wird nie erhöht
+--> Ausgabe ok
+--> 3 Pkt.
+
+
+2Pkt) maximal 7 neue Regale befüllen
+--> Main[44] stellplatz wird nie false
+--> Main[44] logikfehler in Abfrage ob alle Stellplätze leer sind
+--> 1 Pkt 
+
+
+2Pkt) Preisänderung aller Elektrowaren in den neuen Regalen -10%
+--> der preis soll erst geändert werden, sobald die elektrowaren im neuen regal liegen
+--> du änderst den preis aller Waren
+--> 0 Pkt
+

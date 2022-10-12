@@ -1,0 +1,44 @@
+6/24 Nicht genügend
+
+Aufgabe 3.1 (8 Pkt) --> 6 Pkt. 
+
+
+3Pkt) 3 Produkte erben von Oberklasse
+--> 3
+
+2Pkt) Random Preis, Gewicht
+--> random falsch
+--> 0
+
+1Pkt) Spezifikum
+--> 1
+
+2Pkt) 3 Regale mit je 1000 Produkten befüllen
+--> warum nimmst du nicht [3][1000]
+--> warum schlichtest du am Anfang von [3000] auf [10][1000] um?
+--> 2 Pkt.
+
+--------------
+Aufgabe 3.2 (16 Pkt.) --> 0 Pkt.
+
+4Pkt) Neues Regal = einfach verkettete Liste (kein ARRAY)
+--> 0 Pkt.
+
+
+4Pkt) RandomArtikel aus altem Regal entfernen und in neuem Regal einfügen 
+--> Auch wenn du nicht mehr weißt, wie man eine Liste erstellt :-(
+--> auch das Einfügen in das neue Array klappt nicht :-(
+--> das Einfügen bei dir ergibt überhaupt keinen Sinn
+--> 0 Pkt. 
+
+4Pkt) bei 21 Tonnen weiteres neue Regal + Ausgabe Gesamtpreis/anz. Artikel
+--> Methode gewichtausrechnen? (dafür gibts keine Punkte)
+--> 0 Pkt.
+
+
+
+2Pkt) maximal 7 neue Regale befüllen
+--> 0 Pkt.
+
+2Pkt) Preisänderung aller Elektrowaren in den neuen Regalen -10%
+--> 0 Pkt.

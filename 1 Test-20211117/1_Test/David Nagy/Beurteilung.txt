@@ -1,0 +1,43 @@
+11,5/24 Nicht genügend
+
+Aufgabe 3.1 (8 Pkt) --> 6.5 Pkt. 
+
+
+3Pkt) 3 Produkte erben von Oberklasse
+--> 3 Pkt.
+
+2Pkt) Random Preis, Gewicht
+--> soweit ok, allerdings wird der preis nicht unterschieden
+--> 1.5
+
+1Pkt) Spezifikum
+--> Spielwaren Hersteller: int zu wenig
+--> 0.5
+
+2Pkt) 3 Regale mit je 1000 Produkten befüllen
+--> warum Waren[10][1000]?
+--> fehler beim einfügen, waren[i+1][j+1] warum j+1?
+--> 1.5 
+
+--------------
+Aufgabe 3.2 (16 Pkt.) --> 5 Pkt.
+
+4Pkt) Neues Regal = einfach verkettete Liste (kein ARRAY)
+--> 0 Pkt
+
+4Pkt) RandomArtikel aus altem Regal entfernen und in neuem Regal einfügen
+--> Datenstruktur für neue Regale nicht sinnvoll
+--> logik aber ok, lasse ich gelten
+--> 4 Pkt. 
+
+4Pkt) bei 21 Tonnen weiteres neue Regal + Ausgabe Gesamtpreis/anz. Artikel
+--> schleifen logik komplett falsch
+--> ausgabe lasse ich gelten
+--> 1 Pkt.
+
+2Pkt) maximal 7 neue Regale befüllen
+--> w.o 
+--> 0 Pkt.
+
+2Pkt) Preisänderung aller Elektrowaren in den neuen Regalen -10%
+--> 0 Pkt.

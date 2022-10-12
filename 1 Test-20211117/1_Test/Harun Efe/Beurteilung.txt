@@ -1,0 +1,39 @@
+21/24 Gut
+
+
+Aufgabe 3.1 (8 Pkt) --> 8  
+
+
+3Pkt) 3 Produkte erben von Oberklasse
+--> 3
+
+2Pkt) Random Preis, Gewicht
+--> 2
+
+1Pkt) Spezifikum
+--> 1
+
+2Pkt) 3 Regale mit je 1000 Produkten befüllen
+--> 2
+
+--------------
+Aufgabe 3.2 (16 Pkt.) --> 13 Pkt.
+
+4Pkt) Neues Regal = einfach verkettete Liste (kein ARRAY)
+--> 4
+
+4Pkt) RandomArtikel aus altem Regal entfernen und in neuem Regal einfügen 
+--> ! Stringvergleich in Java mit .equals
+--> Aufbau unnötig kompliziert
+--> 4 Pkt.
+
+4Pkt) bei 21 Tonnen weiteres neue Regal + Ausgabe Gesamtpreis/anz. Artikel
+--> 4 
+
+
+2Pkt) maximal 7 neue Regale befüllen
+--> && (länge..)>0
+--> 1 Pkt.
+
+2Pkt) Preisänderung aller Elektrowaren in den neuen Regalen -10%
+--> 0 Pkt

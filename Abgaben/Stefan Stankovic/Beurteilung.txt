@@ -1,0 +1,41 @@
+﻿18 / 24 Befriedigend 
+
+8 Pkt.) --> 8 
+(3) Klassengerüst mit Vererbung (Lampe...): 3
+(1) Bezeichnung und Status private: 1
+(1) Klasse Lampe abstract: 1
+(1,5) Sinnvolles Interface: 1,5 
+(1,5) Array vom Typ des Interface:
+--> Hinweis: eine Liste war nicht verlangt
+--> 1,5 
+
+
+
+
+8 Pkt.) --> 7 
+(1) Timer mit sinnvollem Intervall (1 Sekunde!):1
+(3) Timertask vorhanden und löst Event aus
+--> Logik nicht vollständig, Abfrage auf Null fehlt
+--> 2,5
+
+(4) Eventhandler in Interessenten korrekt implementiert:3,5
+--> String mit equals vergleichen, sonst ok
+
+
+
+2 Pkt.) Methode AddListener --> Objekte in Array ablegen
+--> Addlistener nicht vorhanden
+--> Anlegen der Interessenten muß außerhalb von Haus passieren (Observer Design Pattern!)
+--> 0,5
+
+
+3 Pkt.) Notstop Rnd 60-180:0
+
+
+
+3 Pkt.) Test mit allen Befehlen (alle 4 Sekunden):
+--> Timing nicht 4 Sekunden
+--> Hinweis: Codes sollten hintereinander sein, nicht random
+--> 2,5
+
+GESAMT

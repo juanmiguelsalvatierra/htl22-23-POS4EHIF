@@ -1,0 +1,3 @@
+Erfasse zusätzlich, wo ein bestimmtes Wort in dem Text vorkommt (Zeilennummer und Wortnummer). Kommt ein Wort öfters in dem Text vor, so ist jedes Vorkommen zu speichern. Für
+diese Aufgabe ist keine zweite vom binären Baum unabhängige Datenstruktur erlaubt. Die
+Zusatzinformationen müssen über einen Zugriff auf den binären Baum auslesbar sein. 

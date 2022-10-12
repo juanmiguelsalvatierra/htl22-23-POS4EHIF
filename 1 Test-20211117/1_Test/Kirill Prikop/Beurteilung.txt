@@ -1,0 +1,59 @@
+9,5/24 Nicht genügend
+
+Aufgabe 3.1 (8 Pkt) --> 4,5 Pkt. 
+
+
+3Pkt) 3 Produkte erben von Oberklasse
+--> 3
+
+2Pkt) Random Preis, Gewicht
+--> 0
+
+1Pkt) Spezifikum
+--> 1
+
+2Pkt) 3 Regale mit je 1000 Produkten befüllen
+--> Main[16] Schleife falsch!!!
+--> Main[18] Random geht von 0-2 --> nie getestet
+--> bio wird nie false (ist initial true)
+--> 0.5 Pkt.
+
+--------------
+Aufgabe 3.2 (16 Pkt.) --> 5 Pkt
+
+Main[97-98]: 
+1.) Aus einem Array ein element löschen ist so ziemlich das leichteste was es gibt
+    [x][y]=null
+2.) Nachdem Collections nicht erlaubt sind, müßtest du das löschen selbst implementieren
+    --> viel aufwändiger
+
+
+4Pkt) Neues Regal = einfach verkettete Liste (kein ARRAY)
+--> Collections NICHT erlaubt!
+--> 0 Pkt.
+
+
+
+4Pkt) RandomArtikel aus altem Regal entfernen und in neuem Regal einfügen 
+--> Hinweis: 3 gleiche abschnitte weisen auf schwächen hin
+--> Verwendung von instanceof vermieden, Probleme mit zugriff auf Array? 
+--> Main[44]: Random geht von 0-2, d.h. [0][0-999] wird nie verschoben !!
+--> Hinweis Main[46-47]: probleme im Umgang Indizes
+--> Logikfehler Main[48] - muß lauten: while (...)==null
+--> 2
+
+
+4Pkt) bei 21 Tonnen weiteres neue Regal + Ausgabe Gesamtpreis/anz. Artikel
+--> bei dir ist das regal mit 21kg voll :-(
+--> sonst ok
+--> 3
+
+
+
+2Pkt) maximal 7 neue Regale befüllen
+--> es wird nur ein Regal versucht zu befüllen
+--> 0
+
+
+2Pkt) Preisänderung aller Elektrowaren in den neuen Regalen -10%
+--> 0

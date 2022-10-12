@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A3.1/A3.1.iml" filepath="$PROJECT_DIR$/A3.1/A3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A3.2/A3.2.iml" filepath="$PROJECT_DIR$/A3.2/A3.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A3.3/A3.3.iml" filepath="$PROJECT_DIR$/A3.3/A3.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A7.2/A7.2.iml" filepath="$PROJECT_DIR$/A7.2/A7.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A7.3/A7.3.iml" filepath="$PROJECT_DIR$/A7.3/A7.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A7.4 Fussball/A7.4 Fussball.iml" filepath="$PROJECT_DIR$/A7.4 Fussball/A7.4 Fussball.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A7.5 Calculator/A7.5 Calculator.iml" filepath="$PROJECT_DIR$/A7.5 Calculator/A7.5 Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A7.6/A7.6.iml" filepath="$PROJECT_DIR$/A7.6/A7.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A7.8/A7.8.iml" filepath="$PROJECT_DIR$/A7.8/A7.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabenblatt_6/Aufgabenblatt_6.iml" filepath="$PROJECT_DIR$/Aufgabenblatt_6/Aufgabenblatt_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BBWoerterbuch/BBWoerterbuch.iml" filepath="$PROJECT_DIR$/BBWoerterbuch/BBWoerterbuch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections_Element/Collections_Element.iml" filepath="$PROJECT_DIR$/Collections_Element/Collections_Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoppelverketteteListe/DoppelverketteteListe.iml" filepath="$PROJECT_DIR$/DoppelverketteteListe/DoppelverketteteListe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnmusSupermarkt/EnmusSupermarkt.iml" filepath="$PROJECT_DIR$/EnmusSupermarkt/EnmusSupermarkt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumsSupermarkt/EnumsSupermarkt.iml" filepath="$PROJECT_DIR$/EnumsSupermarkt/EnumsSupermarkt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POS4EHIF.iml" filepath="$PROJECT_DIR$/POS4EHIF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pascalsche Dreieck/Pascalsche Dreieck.iml" filepath="$PROJECT_DIR$/Pascalsche Dreieck/Pascalsche Dreieck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Produktkatalog/Produktkatalog.iml" filepath="$PROJECT_DIR$/Produktkatalog/Produktkatalog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testvorbereitung_Timer/Testvorbereitung_Timer.iml" filepath="$PROJECT_DIR$/Testvorbereitung_Timer/Testvorbereitung_Timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testübung/Testübung.iml" filepath="$PROJECT_DIR$/Testübung/Testübung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trie/Trie.iml" filepath="$PROJECT_DIR$/Trie/Trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,47 @@
+14 / 24 Genügend
+
+Sehr enttäuschende Arbeit. 
+
+Aufgabe 3.1 (8 Pkt) --> 6 Pkt. 
+
+3Pkt) 3 Produkte erben von Oberklasse
+--> Produkt hat keinen eigenen Konstruktor
+--> super(...) Aufruf vergessen?
+--> preis ist kein float
+--> 1
+
+2Pkt) Random Preis, Gewicht
+--> 2 
+
+1Pkt) Spezifikum
+--> 1
+
+2Pkt) 3 Regale mit je 1000 Produkten befüllen
+--> 2
+
+
+
+--------------
+Aufgabe 3.2 (16 Pkt.) --> 8
+
+4Pkt) Neues Regal = einfach verkettete Liste (kein ARRAY)
+--> 0
+
+4Pkt) RandomArtikel aus altem Regal entfernen und in neuem Regal einfügen 
+--> Random falsch --> es können auch leere Artikel entnommen werden
+--> 3
+
+4Pkt) bei 21 Tonnen weiteres neue Regal + Ausgabe Gesamtpreis/anz. Artikel
+--> 21 tonnen ok
+--> wenn du schon keine liste verwendest
+--> du machst dir nicht einmal die mühe für die neuen regale ein 2-dim array anzulegen
+--> 2
+
+2Pkt) maximal 7 neue Regale befüllen
+--> Hinweis: die Abfrage ob alle alten Regale leer sind geht auch einfacher
+--> 2
+
+2Pkt) Preisänderung aller Elektrowaren in den neuen Regalen -10%
+--> nachdem die Preisänderung in einem(!) Array stattfindet, ist die implementierung einfacher
+--> spätestens hier hätte auffallen müssen, das preis kein double ist
+--> 1 

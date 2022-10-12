@@ -1,0 +1,42 @@
+﻿12 / 24 Genügend
+
+8 Pkt.) --> 7 Pkt 
+(3) Klassengerüst mit Vererbung (Lampe...): 3 
+(1) Bezeichnung und Status private: 1
+(1) Klasse Lampe abstract: 0
+(1,5) Sinnvolles Interface: 1,5 (hinweis: sollte in Lampe implementiert sein)
+(1,5) Array vom Typ des Interface: 1,5 
+
+
+
+
+8 Pkt.) --> 4,5 Pkt 
+(1) Timer mit sinnvollem Intervall (1 Sekunde!)
+--> Timer & Intervall sinnvoll, allerdings nicht sinnvoll gestartet
+--> 0.5
+
+(3) Timertask vorhanden und löst Event aus:
+--> Die Event-Methoden werden 1x in der Zentrale ausgelöst, nicht aber im Haus
+--> Observer-Designpattern nicht umgesetzt
+--> 1 
+
+(4) Eventhandler in Interessenten korrekt implementiert:
+--> Problem bei den Lampen --> der Status wird nicht wirklich gesetzt
+--> 3
+
+
+
+2 Pkt.) Methode AddListener --> Objekte in Array ablegen
+--> AddListenerMethode fehlt
+--> Objekte werden an falscher Stelle angelegt
+SUM: 0.5 
+
+
+
+3 Pkt.) Notstop Rnd 60-180:
+SUM: 0
+
+
+3 Pkt.) Test mit allen Befehlen (alle 4 Sekunden):
+SUM:0 
+

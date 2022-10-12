@@ -1,0 +1,5 @@
+csv datei einlesen
+
+programm schickt es von server zu client mit json
+
+client wandelt es in eine datei um

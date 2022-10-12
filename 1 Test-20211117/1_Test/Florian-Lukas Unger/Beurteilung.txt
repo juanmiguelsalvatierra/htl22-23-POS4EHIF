@@ -1,0 +1,38 @@
+7/24 Nicht genügend
+
+Aufgabe 3.1 (8 Pkt) --> 6  
+
+
+3Pkt) 3 Produkte erben von Oberklasse
+--> 3
+
+2Pkt) Random Preis, Gewicht
+--> random falsch
+--> 0
+
+1Pkt) Spezifikum
+--> 1
+
+2Pkt) 3 Regale mit je 1000 Produkten befüllen
+--> 2
+
+--------------
+Aufgabe 3.2 (16 Pkt.) --> 1 Pkt
+
+4Pkt) Neues Regal = einfach verkettete Liste (kein ARRAY)
+--> produkt hat kein next
+--> Klasse Regalslot --> Produkt produkt, next läßt schließen daß du dich mit Listen nicht auskennst
+--> 0 Pkt
+
+4Pkt) RandomArtikel aus altem Regal entfernen und in neuem Regal einfügen 
+--> 0
+
+4Pkt) bei 21 Tonnen weiteres neue Regal + Ausgabe Gesamtpreis/anz. Artikel
+--> Anz artikel ok
+--> 1
+
+2Pkt) maximal 7 neue Regale befüllen
+--> 0
+
+2Pkt) Preisänderung aller Elektrowaren in den neuen Regalen -10%
+--> 0
